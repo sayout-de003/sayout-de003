@@ -40,7 +40,7 @@ I am a proactive and detail-oriented Python Developer and Data Science Enthusias
 
 ## 💼 Experience
 
-**Python Developer Intern** @ AlienHouse Networking *(Remote | 10 Months)*  
+**Python Developer Intern** @ AlienHouse Networking *(Remote | 1 Year 2 Months)*  
 - Collaborated on Python-based game project, improving backend logic and modularity.  
 - Resolved 50+ bugs, boosting performance and reducing crashes by 40%.  
 - Led a 5+ member team ensuring successful project delivery.  
